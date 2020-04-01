@@ -1,0 +1,6 @@
+Package: Comparing Groups
+Type: Book
+Title: Comparing Groups: Randomization and Bootstrap Methods Using R
+Version: 2.0.0
+Imports: bookdown
+Remotes: rstudio/bookdown

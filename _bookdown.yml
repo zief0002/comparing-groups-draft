@@ -1,0 +1,14 @@
+book_filename: "Comparing Groups (Draft)"
+chapter_name: ""
+repo: https://github.com/zief0002/comparing-groups-draft
+output_dir: docs
+rmd_files: [
+    "index.Rmd",
+    "01-intro.Rmd",
+    "04-kde.Rmd",
+    "05-exploration.Rmd",
+    #"06-inference.Rmd",
+    "06-summary.Rmd"
+    ]
+clean: [packages.bib, bookdown.bbl]
+new_session: yes
